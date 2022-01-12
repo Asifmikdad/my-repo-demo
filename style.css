@@ -44,3 +44,23 @@ h1 {
   background-color:dimgrey;
   background-repeat: no-repeat;
 }
+
+.experience-item{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+  box-shadow: 10px 10px 30px gray;
+  border-left: 10px solid;
+  border-radius: 15px;
+  border-image: linear-gradient(red, blue) 1;
+  
+}
+
+.experience-area{
+  background-color:oldlace;
+}
+
+footer p{
+  text-align: center;
+}
